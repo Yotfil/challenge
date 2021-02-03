@@ -12,10 +12,10 @@ Este proyecto es la respuesta al challenge para Front End.
 
 _Para poder correr este proyecto deberás seguir estos pasos_
 
-- Instalar [NodeJs](https://nodejs.org/es/) Lo necesitarás para poder desplegar el proyecto en local.
+- Instalar [NodeJs](https://nodejs.org/es/). Lo necesitarás para poder desplegar el proyecto en local.
 - [Clonar](https://github.com/Yotfil/challenge.git) el respositorio.
   - Crea una carpeta en tu equipo donde clonarás el proyecto
-  - Pega la línea de abajo en tu terminal
+  - Abre tu términal, navega hasta la ruta de la carpeta y una vez en ella pega la línea de abajo en tu términal
 
 ```
  git clone https://github.com/Yotfil/challenge.git
