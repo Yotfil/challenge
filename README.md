@@ -45,7 +45,7 @@ Este comando se encargará de instalar todos los modulos necesarios para poder c
 
 - _Si quieres ver su descripción_
 
-- **http://localhost:8000/api/items/:id/description**
+  - **http://localhost:8000/api/items/:id/description**
 
 ### Front
 
