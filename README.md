@@ -27,7 +27,7 @@ Una vez clonado encontrarás dos carpetas, una llamada front donde se encuentra 
 
 ### Back
 
-- **Navega en tu términal hasta llegar a la carpeta back y pega la línea de abajo.**
+- **Navega en tu términal hasta llegar a la carpeta back y una vez en ella pega la línea de abajo.**
 
 ```
  npm install
@@ -49,7 +49,7 @@ Este comando se encargará de instalar todos los modulos necesarios para poder c
 
 ### Front
 
-- **Navega en tu términal hasta llegar a la carpeta Entra a la carpeta front y pega la línea de abajo.**
+- **Navega en tu términal hasta llegar a la carpeta front y una vez en ella pega la línea de abajo.**
 
 ```
  npm install
