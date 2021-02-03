@@ -1,0 +1,21 @@
+@import '../../styles/_variables'
+
+.breadcrumbs
+    padding: 16px 0
+    width: 1000px
+    margin: auto
+    &__text
+        font-size: $font-size-14
+        color: $gray-color
+        text-decoration: none
+        cursor: pointer
+        &::after
+            content: '-'
+            margin: 5px
+        &:last-child
+            &::after
+                content: ''
+
+    &__mold
+        width: 300px
+        height: 19px
