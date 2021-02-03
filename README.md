@@ -6,7 +6,7 @@ Este proyecto es la respuesta al challenge para Front End.
 
 - [Github](https://github.com) - Manejador de versiones
 - [NodeJs](https://nodejs.org/es/) - Entorno de desarrollo del lado del servidor, basado en **Javascript**
-- [React](https://reactjs.org/) - Framework empleado en el front. basado en **javascript**
+- [React](https://reactjs.org/) - Framework empleado en el front, basado en **javascript**
 
 ### Pre-requisitos 📋
 
